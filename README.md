@@ -6,7 +6,7 @@
 
 ## 🚀 Try it now
 
-[Live Demo on GitHub Pages](https://yourusername.github.io/astrogaami-dual-chart/)
+[Live Demo on GitHub Pages](Dual_chart_-_South_-_north-v3i.html)
 
 ## ✨ Features
 
