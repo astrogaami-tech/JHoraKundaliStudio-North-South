@@ -1,4 +1,4 @@
-# Astrogaami – Dual Chart - JHoraKundaliStudio-North-South
+# Astrogaami – Dual Chart - North and South Indian Charts
 
 **A single‑file HTML tool for Vedic astrologers** – import data from **Jagannatha Hora (JHora)**, assign positions manually, and export high‑quality South/North Indian chart images ready for publication.
 
